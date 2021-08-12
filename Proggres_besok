@@ -1,0 +1,19 @@
+tambah email buat nota sama print nota
+memperbaiki bagaimana cara kirim email menggunakan nota pada halaman chekout
+membuathalaman discount untuk yang mendapatkan email (pengaturan database untuk menampilkan pada halaman utama sudah ditemukan tinggal membuat katagori baru untuk discount dan masukan ke dalam halaman 
+penjualan namun tidak ditampilkan datanya, karena halaman discount khusus untuk pelanggan yang telah subscribe atau berlangganan)
+membuat form email yang dikirimkan melalui admin untuk cupon discount
+ubah icon
+membuat login pada halaman user dengan google
+
+PERBAIKI UNTUK AUTHENTIKASI EMAIL BAGAIMANA CARANYA BISA MENDAPATKAN NOMOR TELPON DARI LOGIN GMAIL
+//UNTUK HOSTINGAN
+
+perbaiki halaman nota perlu diperbaiki dan di perbagus
+
+
+//PROGRRESS UNTUK SUBSCRIBE 
+membuat halaman subscribe setiap halaman dengan subscribe masing-masing
+SUBSCRIBE SUDAH SAMPAI KATEGORI, SELANJUTNYA KONFIRMASI PEMBAYARAN DAN CHECKOUT.
+UNTUK REPORT EMAIL DI SMTP MAIL HARUS DIMATIKAN CUMAN LAKUKAN PENGUJIAN DALAM HOSTING APAKAH TEBACA ATAU TIDAK
+
